@@ -18,8 +18,7 @@ add.addEventListener("click" , ()=>{
         list.removeChild(paragraph);
     })
     
-
-   
+    console.log("Correct message");
     saisir.value=''
 
 });
