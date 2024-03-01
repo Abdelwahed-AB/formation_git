@@ -18,7 +18,7 @@ add.addEventListener("click" , ()=>{
         list.removeChild(paragraph);
     })
     
-    console.log("Changed message from feature branch");
+    console.log("Changed message from feature branch ..");
     //Testing git restore
     saisir.value=''
 
